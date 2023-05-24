@@ -41,7 +41,7 @@ to add these file to git
 git add .
 ```
 
-to commit git
+to commit chsanges to git
 
 ```
 git commit -m <"commit statement">
